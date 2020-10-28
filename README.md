@@ -1,4 +1,5 @@
-### Hi there, I am [DihanAbir][website], [Resume][resume]
+### Hi there, I am [DihanAbir][website]
+My [Resume][resume]
 
 [resume]: https://drive.google.com/file/d/1ggnewgLjEVEmcqhT-lwZw9GEhVfVm_hq/view
 [website]: https://www.linkedin.com/in/dihan-abir-2177a7136/
