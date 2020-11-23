@@ -18,7 +18,7 @@ My [Resume][resume]
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 
-<img width="550px" alt="Dihan Abir GitHub Status"  src="https://github-readme-stats.vercel.app/api?username=pronazmul&show_icons=true&theme=radical"/>
+<img width="550px" alt="Dihan Abir GitHub Status"  src="https://github-readme-stats.vercel.app/api?username=DihanAbir&show_icons=true&theme=radical"/>
 
 
 ### Connect with me:
