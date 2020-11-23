@@ -18,9 +18,8 @@ My [Resume][resume]
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DihanAbir&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DihanAbir&show_icons=true&theme=gruvbox)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DihanAbir&show_icons=true&theme=radical)
 
 
 
